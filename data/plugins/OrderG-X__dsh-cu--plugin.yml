@@ -1,0 +1,7 @@
+url: https://github.com/OrderG-X/dsh-cu/tree/main/plugin
+name: OrderG-X/dsh-cu#plugin
+category: tools
+tarball: https://github.com/OrderG-X/dsh-cu/releases/latest/download/dsh-cu.tgz
+description:
+  en: "Vision-first desktop control for macOS, for when the accessibility tree is unavailable. Ships 11 desktop_* tools - window list, screenshots, OCR text targeting, coordinate clicks, typing, scrolling, drag - plus a Codex-style cursor overlay with spring animation. Clicks are delivered to the target process, so the real pointer never moves and nothing steals focus."
+  zh: "macOS 的视觉优先桌面控制：无障碍树不可用时照样能干活。11 个 desktop_* 工具——窗口枚举、截图、OCR 找文字、坐标点击、输入、滚动、拖拽，外加 Codex 风格的浮层光标（带弹簧动效）。点击投递给目标进程，不移动真实鼠标、不抢前台。"
